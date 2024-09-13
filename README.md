@@ -29,3 +29,5 @@ https://codenrock.com/contests/e-cup-ozontech-challenge#/leaderboards/16
 ### Код обучения моделей
 * train_model_v9_3.ipynb
 
+### Результаты экспериментов
+[Результаты экспериментов](https://docs.google.com/spreadsheets/d/12wfJoP_2Q48gZtf2oQFlBmMNyYtoaO6NcGppqNclKJ8/edit?usp=sharing)
